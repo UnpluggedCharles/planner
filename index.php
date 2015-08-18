@@ -104,7 +104,7 @@
                   action="SearchEquipNo.php" 
                   method="post" 
                   autocomplete="on">
-                <label >키워드 검색</label>
+                <label >키워드 검색2222</label>
                 <input  type="text" 
                         class="form-control " 
                         id="SearchEquipNo" 
